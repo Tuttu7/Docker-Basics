@@ -141,7 +141,7 @@ Status: Downloaded newer image for httpd:2.2
 eecca5fc9735e47bbfd2af7e9def05d3cd1cb25e908fe299b76bb01899e0e0a9
 ```
 - -d dettached
-- --p port publish
+- -p port publish
 - 8080 host port
 - 80 destination Port
 
